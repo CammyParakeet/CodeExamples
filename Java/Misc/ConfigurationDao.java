@@ -1,3 +1,5 @@
+package Misc;
+
 /**
  * Represents a Data Access Object for Configuration Data retrieved from the ConfigService.
  *
